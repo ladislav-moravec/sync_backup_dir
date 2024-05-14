@@ -10,4 +10,4 @@
 * **test_sync_dir** (dir I want to sync),
 * **test_created_backup_dir** (dir which was synced),
 * **logfile** (contains actions which script did with timestamp)
-  * can be edited but **logfile** must exists!
+  * can be edited but **logfile** must exist!

@@ -1,3 +1,3 @@
 # easy
 
-# another input 
+# another input
